@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Post Name</title>
 
+	<title> Neural Network </title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+	<link rel="stylesheet" type="text/css" href="default.css">
 
 	<link href="https://fonts.googleapis.com/css2?family=Recursive:wght@500&family=Rowdies:wght@300&display=swap" rel="stylesheet"> 
-	
 	<link rel="stylesheet" type="text/css" href="default.css">
 
 
-	<style type="text/css">
-		.img-container{
+	<script src="./brain-browser.min.js" defer></script> 
+    <script src="./script.js" defer></script>
+    <style>
+        .img-container{
 			max-width: 600px;
 		}
 
@@ -20,7 +24,38 @@
 			width: 100%
 		}
 
-	</style>
+        #color {
+            width: 200px;
+            height: 200px;
+            border: 5px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        #diagram {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            border: 2px solid black;
+        }
+
+        .white {
+            color: white;
+        }
+
+        #white-button, 
+        #black-button, 
+        #print-button {
+            border-radius: 50%;
+            margin: 5px;
+            padding: 2px;
+            width: 50px;
+            height: 50px; 
+        }
+        </style>
 
 </head>
 <body>
@@ -40,42 +75,31 @@
 
 		</ul>
 	</div>
+	<section class="s1">
 
+	</section>
 	<div class="main-container">
-		<br>
 
-		<div class="img-container">
-			<!-- <img src="images/1.jpg"> -->
+		<div class="greeting-wrapper">
+			<h3>Neural Network JS Implementation</h3>
 		</div>
 		
-		<h3>Blog 1 about project 1 or idea x</h3>
+		<div id="diagram"></div>
 
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-		<br>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-		<br>
-		<p>More descriptions ...</p>
+        <div id="color">
+            <div class="white">White</div>
+            <div>Black</div>
+            <div id="guess">Guess</div>
+        </div>
 
-		<h5>Technologies:</h5>
-		<ul>
-			<li>- Python</li>
-
-		</ul>
-
+        <button id="white-button">White</button>
+        <button id="black-button">Black</button>
+        <button id="print-button">Print</button>
+		
 
 		<h5>Module 1</h5>
 		<div class="img-container">
 			<!-- <img src="images/m1.jpg"> -->
-		</div>
-
-		<h6>Module 1.2</h5>
-		<div class="img-container">
-			<!-- <img src="images/m2.jpg"> -->
-		</div>
-
-		<h5>Module 2</h5>
-		<div class="img-container">
-				<!-- <img src="images/m2.jpg"> -->
 		</div>
 
 	</div>
