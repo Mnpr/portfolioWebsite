@@ -4,11 +4,8 @@
 
 ![](./images/website.png)
 
+## Projects
 
-## Posts
-
-### 1. Neural Networks
-
-![](./images/post1.png)
+### 1. Neural Networks ...
 
 ### 2. Proj future ...
