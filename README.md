@@ -8,6 +8,6 @@
 
 ### 1. Neural Networks ...
 
-![](/home/mnpr_term/Documents/MarkTextImages/954bba0e9240e41a569411c6e46a04faed29622b.png)
+![](./images/post1.png)
 
 ### 2. Proj future ...
