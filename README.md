@@ -1,10 +1,23 @@
 # Website Portfolio
 
-> Simple Introduction :man:, Academics :mortar_board:, Achievement :star2:, Expecience :computer: and Projects undertaken. 
+> Introduction :man:, Academics :mortar_board:, Achievement :star2:, Expecience :computer: and Projects undertaken. 
 
 ![](./public/images/website.png)
 
-## Projects
+
+## Instructions
+
+```nodejs
+
+# Install dependencies
+npm install
+
+# Start Server
+node app
+
+```
+
+## Projects Undertaken
 
 ### 1. Classical Machine Learning on Various Datasets:
 
@@ -82,4 +95,19 @@
 
 
 ***
+
+### Future Projects
+
+- [ ] Art/ Music Generation
+
+
+### TODOs
+
+- [ ] Add Themes
+- [ ] Add Backend
+
+- [ ] Framework Implementation
+- [ ] Database Connection
+- [ ] JS based (AI addition) 
+
 ***
