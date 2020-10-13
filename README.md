@@ -2,7 +2,7 @@
 
 > Simple Introduction :man:, Academics :mortar_board:, Achievement :star2:, Expecience :computer: and Projects undertaken. 
 
-![](./images/website.png)
+![](./public/images/website.png)
 
 ## Projects
 
