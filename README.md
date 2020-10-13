@@ -1,9 +1,5 @@
 # Website Portfolio
 
-## Work In Progress ....
-
-
-
 > Simple Introduction :man:, Academics :mortar_board:, Achievement :star2:, Expecience :computer: and Projects undertaken. 
 
 ![](./images/website.png)
@@ -15,7 +11,7 @@
 - [Regression](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/Regression.ipynb) - Linear, Multiple-Linear Regression
 
 - [Support Vector Machine](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/SVM.ipynb) - Iris Dataset ( Linear & RBF kernel)
-- 
+
 - [Decision Tree Classification](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/DecisionTrees/DecisionTreeClassification.ipynb) - UCI Banknote Authentication Dataset
 
 - [Decision Tree Regression](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/DecisionTrees/DecisionTreeRegression.ipynb) -  FSU Petron Consumption Dataset
@@ -43,7 +39,7 @@
 
 ### 2. [Time Series forecasting : Python](https://github.com/Mnpr/TimeSeriesForecasting)
 
-![](./images/tsf.png)
+![](./public/images/tsf.png)
 
 **Using :**
 - Classical Techniques
@@ -78,11 +74,11 @@
 
 ### 6. Neural Networks in Browser
 
-![](./images/brainjs.png)
+![](./public/images/brainjs.png)
 
 ### 7. [Elm Crud APP (Alternative to JS) | Functional Programming Language ](https://github.com/Mnpr/crudElm)
 
-![](./images/elmtd.png)
+![](./public/images/elmtd.png)
 
 
 ***
