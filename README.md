@@ -19,7 +19,7 @@ node app
 
 ## Projects Undertaken
 
-### 1. Classical Machine Learning on Various Datasets:
+### 1. Classical Machine Learning on Various Datasets (ScikitLearn):
 
 - [Regression](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/Regression.ipynb) - Linear, Multiple-Linear Regression
 
@@ -50,7 +50,7 @@ node app
 - [AIC, BIC, MDL](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/ModelSelection/Notebooks/AIC_BIC_MDL.ipynb) - Model Selection Criteria - Petrol Consumption Dataset.
 
 
-### 2. [Time Series forecasting : Python](https://github.com/Mnpr/TimeSeriesForecasting)
+### 2. [Time Series forecasting : Classical/ NeuralNetworks](https://github.com/Mnpr/TimeSeriesForecasting)
 
 ![](./public/images/tsf.png)
 
@@ -59,54 +59,65 @@ node app
 - LSTM( RNNs )
 - Facebook Prophet 
 
-### 3. [Neural Networks and Deep Learning](https://github.com/Mnpr/NeuralNetworks-TF-Torch)
+
+### 3. Web Development
+
+#### 1. [Socialog](https://github.com/Mnpr/SociaLog)
+
+- Social media APP
+- NodeJS, MongoDB, Express, SocketIO, Passport, Auths, APIs etc.
+
+#### 2. Neural Networks in Browser
+
+![](./public/images/brainjs.png)
+
+#### 3. [Elm Crud APP (Alternative to JS) | Functional Programming Language ](https://github.com/Mnpr/crudElm)
+
+![](./public/images/elmtd.png)
+
+#### 4. [ Concept Implementation/ LearnBase](https://github.com/Mnpr/LearnBase-Python-R-WEB)
+
+- Python
+- R 
+- HTML5, CSS3, JS, Node, MongoDB, Elm/Haskell, BrainJS, Angular, TypeScript
+- Concepts ( Vue, React )
+
+#### 5. [Blockchain Core/ API](https://github.com/Mnpr/Blockchain)
+
+### 4. [Neural Networks and Deep Learning](https://github.com/Mnpr/NeuralNetworks-TF-Torch)
 
 - Numpy
 - Pandas
 - Matplotlib/ Seaborn
-- Tensorflow/ Pytorch
+- [ ] Tensorflow/ Pytorch
   - ANN
   - RNN
   - CNN
   - AE
   - GAN
 
-### 4. [Computer Vision ( OpenCV, Python)](https://github.com/Mnpr/ComputerVision-Python)
+### 5. [Computer Vision ( OpenCV, Python)](https://github.com/Mnpr/ComputerVision-Python)
 
 - Image Processing
 - Video Processing
-- Obect Tracking/ Detection
-- Image Segmentation
-- Deep Learning in CV
-
-
-### 5. [Socialog](https://github.com/Mnpr/SociaLog)
-
-- Social media APP
-- NodeJS, MongoDB, Express, SocketIO, Passport, Auths, APIs etc.
-
-### 6. Neural Networks in Browser
-
-![](./public/images/brainjs.png)
-
-### 7. [Elm Crud APP (Alternative to JS) | Functional Programming Language ](https://github.com/Mnpr/crudElm)
-
-![](./public/images/elmtd.png)
+- [ ] Obect Tracking/ Detection
+- [ ] Image Segmentation
+- [ ] Deep Learning in CV
 
 
 ***
 
-### Future Projects
+### 6. Future Projects
 
-- [ ] Art/ Music Generation
+- [ ] Art/ Music Generation ( Variational AutoEncoders / Generative Adverserial Networks / Transformers )
 
 
 ### TODOs
 
-- [ ] Add Themes
-- [ ] Add Backend
+- [x] Add Themes
+- [x] Add Backend
 
-- [ ] Framework Implementation
+- [ ] Framework Implementation ( Angular - Portfolio Website)
 - [ ] Database Connection
 - [ ] JS based (AI addition) 
 
