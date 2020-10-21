@@ -4,17 +4,14 @@
 
 ![](./public/images/website.png)
 
-
 ## Instructions
 
 ```nodejs
-
 # Install dependencies
 npm install
 
 # Start Server
 node app
-
 ```
 
 ## Projects Undertaken
@@ -49,16 +46,15 @@ node app
 
 - [AIC, BIC, MDL](https://github.com/Mnpr/ClassicalML-ScikitLearn/blob/master/Implementation-ipynb/ModelSelection/Notebooks/AIC_BIC_MDL.ipynb) - Model Selection Criteria - Petrol Consumption Dataset.
 
-
 ### 2. [Time Series forecasting : Classical/ NeuralNetworks](https://github.com/Mnpr/TimeSeriesForecasting)
 
 ![](./public/images/tsf.png)
 
 **Using :**
+
 - Classical Techniques
 - LSTM( RNNs )
 - Facebook Prophet 
-
 
 ### 3. Web Development
 
@@ -66,6 +62,12 @@ node app
 
 - Social media APP
 - NodeJS, MongoDB, Express, SocketIO, Passport, Auths, APIs etc.
+
+
+
+![](./public/images/login.jpg)
+
+
 
 ![](public/images/profile.jpg)
 
@@ -78,7 +80,7 @@ node app
 
 - Implemented with portfolioWebsite
 - Install Dependencies & Run Node Runtime
-- >> @ http://localhost:5000/post.html
+- > > @ http://localhost:5000/post.html
 
 ![](./public/images/brainjs.png)
 
@@ -106,6 +108,7 @@ node app
 - Numpy
 - Pandas
 - Matplotlib/ Seaborn
+
 - [ ] Tensorflow/ Pytorch
   - ANN
   - RNN
@@ -117,17 +120,16 @@ node app
 
 - Image Processing
 - Video Processing
+
 - [ ] Obect Tracking/ Detection
 - [ ] Image Segmentation
 - [ ] Deep Learning in CV
-
 
 ***
 
 ### 6. Future Projects
 
 - [ ] Art/ Music Generation ( Variational AutoEncoders / Generative Adverserial Networks / Transformers )
-
 
 ### TODOs
 
