@@ -67,7 +67,16 @@ node app
 - Social media APP
 - NodeJS, MongoDB, Express, SocketIO, Passport, Auths, APIs etc.
 
-#### 2. Neural Networks in Browser
+**Todo**
+
+- [ ] Migrate FrontEnd Ejs -> Vue | Angular
+- [ ] Backend ( Reconfigure AWS) 
+
+#### 2. [Neural Networks in Browser](https://github.com/Mnpr/portfolioWebsite)
+
+- Implemented with portfolioWebsite
+- Install Dependencies & Run Node Runtime
+- >> @ http://localhost:5000/post.html
 
 ![](./public/images/brainjs.png)
 
@@ -83,6 +92,12 @@ node app
 - Concepts ( Vue, React )
 
 #### 5. [Blockchain Core/ API](https://github.com/Mnpr/Blockchain)
+
+#### 6. [Portfolio Website](https://github.com/Mnpr/portfolioWebsite)
+
+- [x] Add Themes
+- [x] Add Backend
+- [ ] Front ( Content, Framework)
 
 ### 4. [Neural Networks and Deep Learning](https://github.com/Mnpr/NeuralNetworks-TF-Torch)
 
@@ -114,10 +129,6 @@ node app
 
 ### TODOs
 
-- [x] Add Themes
-- [x] Add Backend
-
-- [ ] Framework Implementation ( Angular - Portfolio Website)
 - [ ] Database Connection
 - [ ] JS based (AI addition) 
 
