@@ -67,6 +67,8 @@ node app
 - Social media APP
 - NodeJS, MongoDB, Express, SocketIO, Passport, Auths, APIs etc.
 
+![](public/images/profile.jpg)
+
 **Todo**
 
 - [ ] Migrate FrontEnd Ejs -> Vue | Angular
